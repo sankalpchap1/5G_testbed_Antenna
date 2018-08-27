@@ -1,2 +1,2 @@
 # 5G_testbed_Antenna
-This is repo for Antenna design for 5G testbed project
+This is repo for Antenna lens design for 5G testbed project
